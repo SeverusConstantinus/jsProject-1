@@ -1,0 +1,25 @@
+body{
+font-family: "Times New Roman", Times, serif;
+    background-color: #EEEEEE;
+}
+
+p{
+    font-size: 130px;
+}
+ div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ input{
+   font-family: "Times New Roman", Times, serif;
+   margin-left: 10px;
+    font-size: 130px;
+    height: 130px;
+    width: 300px;
+ }
+ button{
+   background-color: transparent;
+    padding: 50px;
+    margin-left: 60px;
+ }
