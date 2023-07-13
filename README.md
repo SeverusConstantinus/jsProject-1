@@ -1,7 +1,7 @@
-# jsProject-1
+# jsProject-1 
 A simple program generates 2 numbers(2-9) from which in the input field the user should write the correct answer.... 
 --------
-*Update 1.0.0
+*Update 1.0.0 (script.js only)
 
 -The user can now generate numbers with the help of the letter ,,Q" and check the answer with ,,Enter".
 
