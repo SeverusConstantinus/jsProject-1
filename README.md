@@ -1,5 +1,5 @@
 # jsProject-1
-A simple program generates 2 numbers(1-9) from which in the input field the user should write the correct answer.... 
+A simple program generates 2 numbers(2-9) from which in the input field the user should write the correct answer.... 
 --------
 *Update 1.0.0
 
